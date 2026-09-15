@@ -31,3 +31,4 @@ Popularized by economist Arthur Laffer in the 1970s, sketched informally to illu
 - The Laffer Curve is a foundation for [[supply-side-economics|Supply-side Economics]], which advocates cutting tax rates to spur growth.
 - It is often invoked in debates over [[fiscal-policy|Fiscal Policy]], since it directly concerns government revenue and spending capacity.
 - It relates to the [[deadweight-loss|Deadweight Loss]] concept in economics, as excessive taxation reduces economic activity and efficiency.
+- It applies [[supply-and-demand|Supply and Demand]] to the market for taxable labor, tracing how the supply of taxed activity responds to the after-tax price of working.
