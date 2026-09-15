@@ -35,3 +35,4 @@ Anthropology seeks a holistic understanding of what it means to be human, combin
 - [[natural-evolution|Natural Evolution]] underlies the biological anthropology subfield, explaining human origins and biological diversity.
 - [[paleontology|Paleontology]] often complements archaeological evidence when studying early human ancestors.
 - [[taxonomy|Taxonomy]] provides the classification framework anthropologists use to place humans within the broader tree of life.
+- [[prisoners-dilemma|Prisoner's Dilemma]] gives a formal target for ethnographic findings on reciprocity, gift exchange, and social sanctioning, which document how real societies sustain cooperation the model predicts should collapse.

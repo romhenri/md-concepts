@@ -35,3 +35,4 @@ Most computational and mathematical problems can be framed as searching for the 
 - [[machine-learning|Machine Learning]] depends on optimization algorithms to fit model parameters to data.
 - [[programming|Programming]] is the tool through which optimization algorithms are implemented and applied.
 - [[bio-inspired-computing|Bio-inspired Computing]] offers metaheuristic optimization techniques inspired by natural processes.
+- [[prisoners-dilemma|Prisoner's Dilemma]] marks a boundary of the single-objective framing, showing that independently optimizing each agent's own objective can converge on a jointly worse outcome than a cooperative solution.
