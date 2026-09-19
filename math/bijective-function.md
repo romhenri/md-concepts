@@ -25,3 +25,4 @@ A bijection establishes a perfect pairing between two sets: each input has exact
 ## Related Concepts
 - [[injective-function|Injective Function]] is one of the two required properties for a function to be bijective.
 - [[surjective-function|Surjective Function]] is the other required property for a function to be bijective.
+- [[matrix|Matrix]] represents exactly this kind of map when it is square and invertible, since an invertible matrix corresponds to a bijective linear transformation.
