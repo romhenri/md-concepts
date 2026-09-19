@@ -35,3 +35,4 @@ Mutations are the raw material of genetic variation. They can arise spontaneousl
 - It is the biological inspiration behind [[bio-inspired-computing|Bio-inspired Computing]], particularly the mutation operator used in genetic algorithms.
 - It relates to [[natural-selection|Natural Selection]], which determines whether a mutation persists, spreads, or disappears in a population.
 - It underlies [[genetic-diversity|Genetic Diversity]], a key factor in a population's resilience and adaptability.
+- It is a [[stochastic|Stochastic]] event, occurring randomly rather than on a fixed schedule during DNA replication.
