@@ -36,3 +36,7 @@ Most computational and mathematical problems can be framed as searching for the 
 - [[programming|Programming]] is the tool through which optimization algorithms are implemented and applied.
 - [[bio-inspired-computing|Bio-inspired Computing]] offers metaheuristic optimization techniques inspired by natural processes.
 - [[prisoners-dilemma|Prisoner's Dilemma]] marks a boundary of the single-objective framing, showing that independently optimizing each agent's own objective can converge on a jointly worse outcome than a cooperative solution.
+- [[entropy|Entropy]] provides the temperature/disorder framework that simulated annealing uses to escape local optima.
+- [[stochastic|Stochastic]] describes the randomness that methods like stochastic gradient descent and simulated annealing inject to search large or non-convex spaces.
+- [[artificial-intelligence|Artificial Intelligence]] depends on optimization to fit and tune the models underlying most of its learning-based systems.
+- [[federated-learning|Federated Learning]] relies on optimization to design aggregation schemes, such as FedAvg, that converge despite non-identical client data distributions.

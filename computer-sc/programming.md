@@ -35,3 +35,5 @@ Programming translates a solution to a problem - expressed as logic, data struct
 ## Related Concepts
 - [[machine-learning|Machine Learning]] and [[optimization|Optimization]] are both implemented through programming languages and frameworks.
 - [[bio-inspired-computing|Bio-inspired Computing]] relies on programming to translate biological metaphors into executable algorithms.
+- [[smoke-test|Smoke Test]] is the fastest, shallowest stage of the testing that programming's process includes, gating a build before deeper verification.
+- [[artificial-intelligence|Artificial Intelligence]] systems are implemented and deployed through programming languages and frameworks.

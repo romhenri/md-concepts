@@ -35,3 +35,7 @@ Instead of hand-coding logic for every scenario, a model is trained on data so i
 - [[optimization|Optimization]] provides the mathematical machinery (e.g., gradient descent) used to train most machine learning models.
 - [[programming|Programming]] is the practical medium through which machine learning algorithms are implemented and deployed.
 - [[bio-inspired-computing|Bio-inspired Computing]] contributes techniques (e.g., evolutionary algorithms, neural networks) that overlap with machine learning.
+- [[entropy|Entropy]] supplies the information-theoretic measure behind decision tree splitting criteria and cross-entropy loss functions.
+- [[artificial-intelligence|Artificial Intelligence]] is the broader field machine learning serves as the dominant modern technique for building.
+- [[federated-learning|Federated Learning]] adapts machine learning's standard training objective to a decentralized setting where client data cannot be centralized.
+- [[matrix|Matrix]] and [[tensor|Tensor]] are the core data structures machine learning frameworks use to represent inputs, weights, and activations.
